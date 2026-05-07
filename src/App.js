@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { ShieldCheck, Trash2 } from 'lucide-react';
 function App() {
   const [motoristas, setMotoristas] = useState(() => {
     const salvo = localStorage.getItem('gestao_99_anjo');
