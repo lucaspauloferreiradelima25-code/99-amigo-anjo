@@ -1,6 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { Users, UserPlus, Phone, Mail, Trash2, ShieldCheck, CheckCircle, AlertCircle } from 'lucide-react';
-
+import { useState, useEffect } from 'react';
 function App() {
   const [motoristas, setMotoristas] = useState(() => {
     const salvo = localStorage.getItem('gestao_99_anjo');
