@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+🚕 99 Amigo Anjo - Mentoria e Liderança
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+​Este repositório documenta minha atuação e as diretrizes do programa Amigo Anjo dentro da plataforma 99. Como mentor, sou responsável por liderar e orientar um grupo de novos motoristas, garantindo que alcancem o melhor desempenho e segurança nas ruas.
 
-## Available Scripts
+​🛡️ Papel do Amigo Anjo
 
-In the project directory, you can run:
+​Mentoria Estratégica: Orientação de novos parceiros sobre as melhores práticas da plataforma 99.
 
-### `npm start`
+​Liderança de Grupo: Gestão de comunicação e suporte técnico para resolver dúvidas cotidianas da operação.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+​Foco em Resultados: Acompanhamento de metas e métricas de qualidade para elevar o nível do serviço prestado.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+​🚀 Habilidades Demonstradas
 
-### `npm test`
+​Liderança Ativa: Capacidade de guiar equipes e transmitir conhecimentos técnicos de forma clara.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+​Resolução de Problemas: Agilidade para lidar com imprevistos e oferecer suporte em tempo real.
 
-### `npm run build`
+​Comunicação Profissional: Domínio de ferramentas de gestão de grupo e relacionamento interpessoal.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+​💡 Impacto Profissional
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+​Minha promoção à função de Amigo Anjo reflete meu compromisso com a excelência e minha capacidade de assumir responsabilidades de liderança. Estas são competências que aplico tanto na logística quanto no desenvolvimento de projetos de tecnologia, focando sempre em eficiência e suporte ao usuário.
